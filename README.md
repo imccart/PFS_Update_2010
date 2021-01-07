@@ -24,7 +24,9 @@ R code to read and clean the BETOS data from Dranove and Ody (2019) is available
 
 
 ## Discussion of price changes
-CMS pays physicians an administratively set fee based on the Relative Value Units (RVUs) of each service. There are three seperate RVUs for any given procedure or service:<br>
+CMS pays physicians an administratively set fee based on the Relative Value Units (RVUs) of each service. There are three seperate RVUs for any given procedure or service:
+
+
 1. Work RVU: An estimate of the cost of the physician's work for each service.
 2. Malpractice RVU: An estimate of the malpractice costs for each service.
 3. Practice Expense RVU: An estimate of the practice expenses for each service, which may differ depending on the location of the service (physician's office versus outpatient facility). This practice expense RVU is further split into two categories (direct and indirect expenses), where the indirect expenses are calculated as some percentage of direct expenses. 
