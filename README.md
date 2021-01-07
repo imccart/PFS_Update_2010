@@ -18,7 +18,7 @@ the relevant data for 2013. I do this because the federal fiscal year for 2013 b
 
 R code to read and clean the PFS data from Dranove and Ody (2019) is available [here](code/2_Physician_Prices.R).
 
-3. **BETOS Data**. BETOS stands for the Berenson-Eggers Type of Service and is a higher-level categorization of services than HCPCS codes. Dranove and Ody (2019) use these to crosswalk with HCPCS codes, ultimately to identify services that are substitutable between office and facility settings. CMS does not appear to host these crosswalk files online anymore; however, they are available as part of a separate GitHub Repository [here]((https://github.com/chse-ohsu/PublicUseData/tree/master/BETOS). The data are also provided as part of the supplemental material for Dranove and Ody (2019). 
+3. **BETOS Data**. BETOS stands for the Berenson-Eggers Type of Service and is a higher-level categorization of services than HCPCS codes. Dranove and Ody (2019) use these to crosswalk with HCPCS codes, ultimately to identify services that are substitutable between office and facility settings. CMS does not appear to host these crosswalk files online anymore; however, they are available as part of a separate GitHub Repository [here](https://github.com/chse-ohsu/PublicUseData/tree/master/BETOS). The data are also provided as part of the supplemental material for Dranove and Ody (2019). 
 
 R code to read and clean the BETOS data from Dranove and Ody (2019) is available [here](code/3_Betos.R).
 
